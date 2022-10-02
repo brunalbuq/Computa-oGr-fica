@@ -1,0 +1,15 @@
+glBegin(GL_POINTS);
+	glColor3f(0.0f, 0.0f, 0.0f);
+	glVertex2i(100, 50);
+	glVertex2i(100, 130);
+	glVertex2i(150, 150);
+  	glVertex2i(150, 230);
+  	glVertex2i(200, 250);
+	glVertex2i(200, 330);
+	glVertex2i(250, 350);
+ 	glVertex2i(250, 430);
+	glVertex2i(300, 450);
+	glVertex2i(300, 530);
+	glVertex2i(350, 550);
+	glVertex2i(350, 630);
+glEnd(); 
